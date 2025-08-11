@@ -11,10 +11,14 @@
             "id": "e0e8d2a2ced6124b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mac电脑配置（前端开发）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Mac电脑配置（前端开发）"
             }
           }
         ]

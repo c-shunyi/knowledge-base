@@ -32,7 +32,7 @@ p_on
 
 执行命令 brew reinstall nvm
 
-配置.zshrc
+配置.zshrc文件
 ```
 export NVM_DIR="$HOME/.nvm"
 [ -s "$(brew --prefix nvm)/nvm.sh" ] && \. "$(brew --prefix nvm)/nvm.sh"  # This loads nvm
