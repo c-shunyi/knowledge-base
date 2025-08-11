@@ -39,3 +39,21 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$(brew --prefix nvm)/bash_completion" ] && \. "$(brew --prefix nvm)/bash_completion"  # This loads nvm bash_completion
 ```
 
+# 开启自动开启SSH
+
+**打开终端，编辑（或创建）SSH 配置文件：**`nano ~/.ssh/config`
+
+添加以下内容：
+```
+Host *
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentityFile ~/.ssh/id_rsa`
+```
+- `AddKeysToAgent yes` ：每次使用该密钥时自动加入代理
+- `UseKeychain yes` ：把密钥存进 macOS 钥匙串，实现自动加载
+- `IdentityFile` ：你的私钥路径，改成你自己的文件名
+
+**把密钥添加到 ssh-agent 并存进钥匙串（只需执行一次）：**
+
+`ssh-add --apple-use-keychain ~/.ssh/id_rsa`
