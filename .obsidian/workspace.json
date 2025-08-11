@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "c6003d84bb62c98a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfbaf5d3b79bda0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e8d2a2ced6124b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a1e61446c4df4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02c41b067a02def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d1bfe476ebc979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b96a489ba4d8f053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "906771f54338983a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "572eeb2470ced2e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e6b366376db71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08bf30e1142b12d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vue/基础知识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "基础知识 的反向链接列表"
+            }
+          },
+          {
+            "id": "d69186881a54c871",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vue/基础知识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "基础知识 的出链列表"
+            }
+          },
+          {
+            "id": "4eff8721bbad84dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4bee8db36fad3bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/基础知识点.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "基础知识点 的大纲"
+            }
+          },
+          {
+            "id": "ee91595e3364c449",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e0e8d2a2ced6124b",
+  "lastOpenFiles": [
+    "快捷指令配置（.zshrc）.md",
+    "Mac电脑配置（前端开发）.md",
+    "浏览器/面试题.md",
+    "面试题总结/前端场景题.md",
+    "CSS/知识点/BFC.md",
+    "CSS/基础知识.md",
+    "JavaScript/知识点/未命名.md",
+    "CSS/知识点",
+    "JavaScript/知识点/事件冒泡.md",
+    "JavaScript/面试题回答.md",
+    "JavaScript/知识点/Function和箭头函数的理解.md",
+    "JavaScript/知识点/节流与防抖.md",
+    "JavaScript/知识点/数组的常用方法有哪些？.md",
+    "浏览器",
+    "JavaScript/知识点.md",
+    "JavaScript/知识点",
+    "Git/基础知识点.md",
+    "Git/面试题回答模版.md",
+    "Git/协同开发规范.md",
+    "Vue/基础知识.md",
+    "命名规范.md",
+    "如何协同开发？.md",
+    "数组的理解.md",
+    "Vite工程化/基础知识.md",
+    "笔记图片",
+    "Pasted image 20250626111652.png",
+    "Git",
+    "CSS",
+    "Vite工程化",
+    "面试题总结",
+    "欢迎.md",
+    "数据结构与算法",
+    "Node"
+  ]
+}
