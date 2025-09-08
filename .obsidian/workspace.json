@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点/HTML/浏览器的存储.md",
+                "file": "知识点/HTML/HTML5的新特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浏览器的存储"
+              "title": "HTML5的新特性"
             }
           }
         ],
@@ -197,9 +197,10 @@
   },
   "active": "a5906348f0ef1fa8",
   "lastOpenFiles": [
+    "面试题.md",
+    "知识点/HTML/HTML5的新特性.md",
     "知识点/HTML/浏览器的缓存.md",
     "知识点/HTML/浏览器的存储.md",
-    "面试题.md",
     "知识点/HTML/路由模式.md",
     "微信小程序开发到发布流程.md",
     "Mac电脑配置（前端开发）.md",
@@ -227,7 +228,6 @@
     "Git/面试题回答模版.md",
     "Git/协同开发规范.md",
     "Vue/基础知识.md",
-    "命名规范.md",
     "笔记图片",
     "Pasted image 20250626111652.png",
     "Git",
