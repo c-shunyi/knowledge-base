@@ -42,7 +42,7 @@ HTML5 为表单带来了巨大的改进，减少了我们对 JavaScript 验证�
     
 - `<audio>`：嵌入音频文件。同样支持 `controls`, `autoplay`, `loop`。
     
-```
+```html
 <video src="movie.mp4" controls width="600"></video>
 <audio src="music.mp3" controls></audio>
 ```
