@@ -1,6 +1,6 @@
 {
-  "commitMessage": "知识库更新：{{ date }}",
-  "autoCommitMessage": "知识库更新：{{ date }}",
+  "commitMessage": "知识库更新：{{date}}",
+  "autoCommitMessage": "知识库更新：{{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
@@ -18,7 +18,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": true,
+  "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,

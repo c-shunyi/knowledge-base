@@ -4,17 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d41a9f48971fcc5f",
+        "id": "0a3e6038a2f1625b",
         "type": "tabs",
         "children": [
           {
-            "id": "d32fca83920cff0a",
+            "id": "ebc410e354814f5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知识点/CSS/BFC容器.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "BFC容器"
+            }
+          },
+          {
+            "id": "1a32268acc08f68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/CSS/CSS选择器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS选择器"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4f6d022dfbd1f81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d1c90f163dfd93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试题"
             }
           }
         ]
@@ -74,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "572eeb2470ced2e4",
@@ -177,16 +215,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d32fca83920cff0a",
+  "active": "ebc410e354814f5b",
   "lastOpenFiles": [
+    "知识点/Vue/vue中怎么解决样式冲突？.md",
+    "知识点/CSS/伪元素和伪类的区别？.md",
+    "知识点/CSS/盒子模型.md",
+    "知识点/CSS/BFC容器.md",
+    "面试题.md",
+    "知识点/CSS/CSS选择器.md",
+    "知识点/CSS/弹性布局？flex？容器和项目的属性和作用.md",
+    "知识点/CSS/position属性？做过什么功能？.md",
+    "知识点/HTML/浏览器的缓存.md",
+    "知识点/HTML/路由模式.md",
     "知识点/HTML/HTML5的新特性.md",
+    "知识点/HTML/HTTP方法.md",
     "知识点/HTML/Drawing 2025-09-09 17.17.26.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 17.17.14.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 17.16.14.excalidraw.md",
-    "知识点/HTML/浏览器的缓存.md",
     "Excalidraw",
     "img/deepseek_mermaid_20250909_de3d7c.svg",
-    "面试题.md",
     "img",
     "未命名",
     "知识点/HTML/鉴权.md",
@@ -206,16 +253,7 @@
     "JavaScript/面试题回答.md",
     "知识点/JS/说说JavaScript同步异步.md",
     "知识点/JS/说说深浅拷贝.md",
-    "知识点/JS/Function和箭头函数的理解.md",
-    "JavaScript/知识点/未命名.md",
-    "知识点/JS/数组的常用方法有哪些？.md",
-    "知识点/JS/数组的理解，JS中数组常用的方法.md",
-    "知识点/JS/手写promise.md",
-    "知识点/JS/事件冒泡.md",
-    "知识点/JS/节流与防抖.md",
     "知识点/JS",
-    "知识点/HTML/浏览器的存储.md",
-    "知识点/HTML/路由模式.md",
     "Pasted image 20250626111652.png"
   ]
 }
