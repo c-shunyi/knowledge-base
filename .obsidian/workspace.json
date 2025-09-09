@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c10f7fcdef09fa99",
+        "id": "d41a9f48971fcc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "3e98ceb07994e500",
+            "id": "d32fca83920cff0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,12 +177,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3e98ceb07994e500",
+  "active": "d32fca83920cff0a",
   "lastOpenFiles": [
+    "知识点/HTML/HTML5的新特性.md",
     "知识点/HTML/Drawing 2025-09-09 17.17.26.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 17.17.14.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 17.16.14.excalidraw.md",
-    "知识点/HTML/HTML5的新特性.md",
     "知识点/HTML/浏览器的缓存.md",
     "Excalidraw",
     "img/deepseek_mermaid_20250909_de3d7c.svg",
