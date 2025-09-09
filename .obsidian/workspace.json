@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "面试题"
             }
-          },
-          {
-            "id": "a5906348f0ef1fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识点/HTML/HTML5的新特性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML5的新特性"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5906348f0ef1fa8",
+  "active": "9854eba33366c6f1",
   "lastOpenFiles": [
+    "知识点/JS/说说JavaScript同步异步.md",
+    "JavaScript/面试题回答.md",
+    "知识点/JS/说说深浅拷贝.md",
+    "知识点/JS/Function和箭头函数的理解.md",
+    "JavaScript/知识点/未命名.md",
+    "知识点/JS/数组的常用方法有哪些？.md",
+    "知识点/JS/数组的理解，JS中数组常用的方法.md",
+    "知识点/JS/手写promise.md",
+    "知识点/JS/事件冒泡.md",
+    "知识点/JS/节流与防抖.md",
+    "知识点/JS",
     "面试题.md",
     "知识点/HTML/HTML5的新特性.md",
     "知识点/HTML/浏览器的缓存.md",
@@ -206,15 +202,7 @@
     "Mac电脑配置（前端开发）.md",
     "知识点/HTML",
     "知识点",
-    "JavaScript/知识点/数组的理解，JS中数组常用的方法.md",
-    "JavaScript/知识点/未命名.md",
-    "JavaScript/面试题回答.md",
-    "JavaScript/知识点/Function和箭头函数的理解.md",
-    "JavaScript/知识点/节流与防抖.md",
-    "JavaScript/知识点/手写promise.md",
     "面试题总结/项目难点.md",
-    "JavaScript/知识点/事件冒泡.md",
-    "JavaScript/知识点/数组的常用方法有哪些？.md",
     "面试题总结/前端场景题.md",
     "快捷指令配置（.zshrc）.md",
     "浏览器/面试题.md",
@@ -226,13 +214,10 @@
     "JavaScript/知识点",
     "Git/基础知识点.md",
     "Git/面试题回答模版.md",
-    "Git/协同开发规范.md",
-    "Vue/基础知识.md",
     "笔记图片",
     "Pasted image 20250626111652.png",
     "Git",
     "CSS",
-    "Vite工程化",
-    "面试题总结"
+    "Vite工程化"
   ]
 }
