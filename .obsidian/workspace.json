@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点/JS/节流与防抖.md",
+                "file": "知识点/Vue/vue2和vue3对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "节流与防抖"
+              "title": "vue2和vue3对比"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "5f71647205ec479b",
   "lastOpenFiles": [
+    "知识点/Uniapp/uniapp分包.md",
+    "知识点/Vue/vue2和vue3对比.md",
+    "知识点/JS/节流与防抖.md",
+    "知识点/HTML/浏览器的缓存.md",
     "知识点/JS/事件冒泡.md",
     "知识点/JS/事件循环机制.md",
     "知识点/JS/Promise手写.md",
@@ -195,7 +199,6 @@
     "知识点/Uniapp/做过寻路吗？注意什么？.md",
     "知识点/Uniapp/做过消息推送吗？和后台如何保持实时推送？.md",
     "知识点/Uniapp/uniapp如何做微信小程序登录?.md",
-    "知识点/Uniapp/uniapp分包.md",
     "知识点/CSS/媒体查询.md",
     "知识点/HTML/HTML5的新特性.md",
     "知识点/CSS/水平垂直居中的办法.md",
@@ -203,13 +206,10 @@
     "知识点/CSS/伪元素和伪类的区别？.md",
     "知识点/HTML/HTTP方法.md",
     "知识点/HTML/路由模式.md",
-    "知识点/HTML/浏览器的缓存.md",
     "知识点/JS/数组的常用方法有哪些？.md",
     "知识点/JS/数组的理解，JS中数组常用的方法.md",
     "知识点/Git",
     "面试题.md",
-    "知识点/CSS/盒子模型.md",
-    "知识点/CSS/CSS选择器.md",
     "Excalidraw",
     "img/deepseek_mermaid_20250909_de3d7c.svg",
     "img",
