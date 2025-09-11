@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8062a3ac4efa8f",
+        "id": "e339b388c8e7dcd6",
         "type": "tabs",
         "children": [
           {
-            "id": "5f71647205ec479b",
+            "id": "e94057c25b35551c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知识点/Vue/vue2和vue3对比.md",
-                "mode": "source",
-                "source": false
+                "file": "面试题总结/大文件上传.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "vue2和vue3对比"
+              "icon": "excalidraw-icon",
+              "title": "大文件上传.excalidraw"
             }
           }
         ]
@@ -181,10 +179,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5f71647205ec479b",
+  "active": "e94057c25b35551c",
   "lastOpenFiles": [
-    "知识点/Uniapp/uniapp分包.md",
+    "面试题总结/前端场景题.md",
+    "面试题总结/大文件上传.excalidraw.md",
     "知识点/Vue/vue2和vue3对比.md",
+    "知识点/Uniapp/uniapp分包.md",
     "知识点/JS/节流与防抖.md",
     "知识点/HTML/浏览器的缓存.md",
     "知识点/JS/事件冒泡.md",
@@ -207,9 +207,7 @@
     "知识点/HTML/HTTP方法.md",
     "知识点/HTML/路由模式.md",
     "知识点/JS/数组的常用方法有哪些？.md",
-    "知识点/JS/数组的理解，JS中数组常用的方法.md",
     "知识点/Git",
-    "面试题.md",
     "Excalidraw",
     "img/deepseek_mermaid_20250909_de3d7c.svg",
     "img",
