@@ -11,12 +11,14 @@
             "id": "e94057c25b35551c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "面试题总结/大文件上传.excalidraw.md"
+                "file": "知识点/Vue/vue和react的响应式区别.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "大文件上传.excalidraw"
+              "icon": "lucide-file",
+              "title": "vue和react的响应式区别"
             }
           }
         ]
@@ -181,32 +183,33 @@
   },
   "active": "e94057c25b35551c",
   "lastOpenFiles": [
-    "面试题总结/前端场景题.md",
-    "面试题总结/大文件上传.excalidraw.md",
-    "知识点/Vue/vue2和vue3对比.md",
-    "知识点/Uniapp/uniapp分包.md",
+    "知识点/网络篇/网络请求包括哪些？响应和请求？.md",
+    "知识点/Vue/vue和react的响应式区别.md",
+    "面试题.md",
+    "知识点/网络篇",
+    "知识点/网络篇.md",
+    "知识点/Vue/父子组件生命周期执行顺序.md",
     "知识点/JS/节流与防抖.md",
+    "知识点/Vue/KeepAlive.md",
+    "知识点/Uniapp/适配问题.md",
+    "知识点/Vue/vue中怎么解决样式冲突？.md",
+    "知识点/Vue/vue2和vue3对比.md",
+    "知识点/Vue/v-if和v-for优先级问题.md",
+    "知识点/Vue/for循环中的key的作用.md",
+    "知识点/Vue/组件传值.md",
+    "知识点/CSS/BFC容器.md",
+    "知识点/CSS/CSS选择器.md",
+    "知识点/CSS/媒体查询.md",
+    "知识点/CSS/盒子模型.md",
+    "知识点/CSS/弹性布局？flex？容器和项目的属性和作用.md",
+    "面试题总结/大文件上传.excalidraw.md",
+    "面试题总结/前端场景题.md",
+    "知识点/Uniapp/uniapp分包.md",
     "知识点/HTML/浏览器的缓存.md",
     "知识点/JS/事件冒泡.md",
     "知识点/JS/事件循环机制.md",
     "知识点/JS/Promise手写.md",
-    "知识点/CSS/BFC容器.md",
     "知识点/JS/This.md",
-    "知识点/JS/Promise, Async, Await.md",
-    "知识点/Uniapp/适配问题.md",
-    "知识点/Uniapp/手机号验证码和第三方微信授权登录和逻辑？.md",
-    "知识点/Uniapp/下拉刷新和上拉加载？.md",
-    "知识点/Uniapp/做过寻路吗？注意什么？.md",
-    "知识点/Uniapp/做过消息推送吗？和后台如何保持实时推送？.md",
-    "知识点/Uniapp/uniapp如何做微信小程序登录?.md",
-    "知识点/CSS/媒体查询.md",
-    "知识点/HTML/HTML5的新特性.md",
-    "知识点/CSS/水平垂直居中的办法.md",
-    "知识点/CSS/position属性？做过什么功能？.md",
-    "知识点/CSS/伪元素和伪类的区别？.md",
-    "知识点/HTML/HTTP方法.md",
-    "知识点/HTML/路由模式.md",
-    "知识点/JS/数组的常用方法有哪些？.md",
     "知识点/Git",
     "Excalidraw",
     "img/deepseek_mermaid_20250909_de3d7c.svg",
@@ -217,7 +220,6 @@
     "知识点/工程化",
     "知识点/Uniapp",
     "知识点/微信小程序",
-    "知识点/Vue",
     "Pasted image 20250626111652.png"
   ]
 }

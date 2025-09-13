@@ -25,13 +25,16 @@ vue2使用的是option（选项式的api）而vue3使用的是composition（组�
 
 ### Vue 3 生命周期钩子
 
-在 Vue 3 中，生命周期钩子与 Vue 2 基本相同，但有一些细微的改进和新钩子的添加。以下是 Vue 3 的钩子：
+在 Vue 3 中，生命周期钩子与 Vue 2 基本相同，但有一些细微的改进和新钩子的添加
 
-1. **`beforeCreate`**: 与 Vue 2 相同。
-2. **`created`**: 与 Vue 2 相同。
-3. **`beforeMount`**: 与 Vue 2 相同。
-4. **`mounted`**: 与 Vue 2 相同。
-5. **`beforeUpdate`**: 与 Vue 2 相同。
-6. **`updated`**: 与 Vue 2 相同。
-7. **`beforeUnmount`**: 替代 `beforeDestroy`，在实例销毁之前调用。
-8. **`unmounted`**: 替代 `destroyed`，在实例销毁后调用。
+vue3是兼容vue2的选择式写法，所以vue2的生命周期都是兼容的
+#### Vue 3 组合式 API 的生命周期钩子
+
+1. **`onBeforeMount`**: 在组件挂载之前调用。
+2. **`onMounted`**: 在组件挂载后调用。
+3. **`onBeforeUpdate`**: 在数据更新之前调用。
+4. **`onUpdated`**: 在数据更新后调用。
+5. **`onBeforeUnmount`**: 在组件卸载之前调用。
+6. **`onUnmounted`**: 在组件卸载后调用。
+7. **`onActivated`**: 在 `<keep-alive>` 组件激活时调用。
+8. **`onDeactivated`**: 在 `<keep-alive>` 组件停用时调用。
