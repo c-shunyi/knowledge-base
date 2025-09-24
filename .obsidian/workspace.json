@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4fa616651b162d",
+        "id": "bfc4e6758987529e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2129f2111ef1426",
+            "id": "eacc3d36b2b6085a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知识点/CSS/弹性布局？flex？容器和项目的属性和作用.md",
-                "mode": "source",
-                "source": false
+                "file": "CozeAI单次请求流程.md"
               },
-              "icon": "lucide-file",
-              "title": "弹性布局？flex？容器和项目的属性和作用"
+              "icon": "excalidraw-icon",
+              "title": "CozeAI单次请求流程"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 431.5
   },
   "right": {
     "id": "572eeb2470ced2e4",
@@ -181,13 +179,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d2129f2111ef1426",
+  "active": "eacc3d36b2b6085a",
   "lastOpenFiles": [
+    "研报智能总结流程图.md",
+    "CozeAI单次请求流程.md",
+    "未命名.md",
+    "Mac电脑配置（前端开发）.md",
+    "项目总结/大文件上传.excalidraw.md",
+    "项目总结/前端场景题.md",
+    "项目总结/项目难点.md",
+    "未命名.base",
+    "面试题.md",
+    "微信小程序开发到发布流程.md",
+    "知识点/CSS/弹性布局？flex？容器和项目的属性和作用.md",
+    "知识点/CSS/单位 px rpx rem em等.md",
+    "知识点/CSS/position属性？做过什么功能？.md",
+    "知识点/CSS/媒体查询.md",
+    "知识点/CSS/水平垂直居中的办法.md",
+    "知识点/CSS/盒子模型.md",
     "知识点/JS/Promise手写.md",
     "知识点/JS/Promise, Async, Await.md",
-    "知识点/CSS/单位 px rpx rem em等.md",
     "知识点/微信小程序/微信授权登录.md",
-    "知识点/CSS/水平垂直居中的办法.md",
     "知识点/Uniapp/下拉刷新和上拉加载？.md",
     "知识点/微信小程序/分包.md",
     "知识点/微信小程序/微信小程序的多端渲染原理? 小程序的优缺点？不超过2M，超过2M怎么办？分包？.md",
@@ -196,19 +208,6 @@
     "知识点/Git/面试题回答模版.md",
     "知识点/CSS/CSS选择器.md",
     "知识点/CSS/BFC容器.md",
-    "知识点/Vue/组件传值.md",
-    "知识点/Vue/父子组件生命周期执行顺序.md",
-    "知识点/Vue/插槽.md",
-    "知识点/Vue/v-if和v-show的区别？v-if和v-for.md",
-    "知识点/浏览器/浏览器渲染原理.md",
-    "知识点/浏览器/面试题.md",
-    "Excalidraw/Drawing 2025-09-09 17.17.14.excalidraw.md",
-    "面试题.md",
-    "知识点/Vue/watch和watchEffect对比.md",
-    "知识点/Vue/KeepAlive.md",
-    "知识点/Vue/vue和react的响应式区别.md",
-    "知识点/CSS/弹性布局？flex？容器和项目的属性和作用.md",
-    "知识点/JS/节流与防抖.md",
     "知识点/网络篇",
     "知识点/Git",
     "Excalidraw",
@@ -219,7 +218,6 @@
     "知识点/TS",
     "知识点/工程化",
     "知识点/Uniapp",
-    "知识点/微信小程序",
     "Pasted image 20250626111652.png"
   ]
 }
